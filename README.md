@@ -1,6 +1,6 @@
 # Simulador de estacionamento
 
-Esse projeto feito em Java simula o controle de entrada e saída de veículos de um estacionamento, o projeto foi feito no modelo de arquitetura em camadas.
+Esse projeto feito em Java simula o controle de entrada e saída de veículos em um estacionamento, o projeto foi feito no modelo de arquitetura em camadas.
 
 # Como rodar
 
